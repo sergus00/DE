@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Метрики/SLA.md",
+                "file": "Data Vault.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SLA"
+              "title": "Data Vault"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Метрики/SLA.md",
+                "file": "SCD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для SLA"
+              "title": "Обратные ссылки для SCD"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Метрики/SLA.md",
+                "file": "SCD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из SLA"
+              "title": "Исходящие ссылки из SCD"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Метрики/SLA.md",
+                "file": "SCD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура SLA"
+              "title": "Структура SCD"
             }
           }
         ]
@@ -187,8 +187,12 @@
   },
   "active": "186ad202fb84ba39",
   "lastOpenFiles": [
-    "Метрики/SLA.md",
-    "Без названия",
+    "Pasted image 20250805025805.png",
+    "Метрика SLA.md",
+    "Data Vault.md",
+    "SCD.md",
+    "1.md",
+    "DWH",
     "Метрики",
     "Добро пожаловать.md"
   ]
