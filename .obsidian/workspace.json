@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Vault.md",
+                "file": "Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Vault"
+              "title": "Без названия"
             }
           }
         ]
@@ -187,10 +187,11 @@
   },
   "active": "186ad202fb84ba39",
   "lastOpenFiles": [
-    "Pasted image 20250805025809.png",
     "Pasted image 20250805025805.png",
-    "Метрика SLA.md",
+    "Без названия.md",
+    "Pasted image 20250805025809.png",
     "Data Vault.md",
+    "Метрика SLA.md",
     "SCD.md",
     "1.md",
     "DWH",
