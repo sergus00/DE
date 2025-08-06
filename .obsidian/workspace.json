@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANALYZE.md",
+                "file": "Селективность данных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ANALYZE"
+              "title": "Селективность данных"
             }
           }
         ]
@@ -187,10 +187,10 @@
   },
   "active": "186ad202fb84ba39",
   "lastOpenFiles": [
-    "vacuum.md",
-    "ANALYZE.md",
-    "Селективность данных.md",
     "Кардинальность данных.md",
+    "ANALYZE.md",
+    "vacuum.md",
+    "Селективность данных.md",
     "Pasted image 20250805025805.png",
     "Pasted image 20250805025809.png",
     "Data Vault.md",
