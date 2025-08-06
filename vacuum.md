@@ -1,0 +1,8 @@
+В PostgreSQL команда `VACUUM` ==предназначена для очистки базы данных от "мертвых кортежей" (удаленных или обновленных строк) и обновления статистики==, что необходимо для эффективной работы оптимизатора запросов. Проще говоря, `VACUUM` освобождает место на диске, занимаемое старыми версиями данных, и позволяет повторно использовать это пространство для новых записей.
+- **[Обновление статистики](https://www.google.com/search?rlz=1C1GCEU_ruRU1076RU1076&cs=0&sca_esv=76304cc329e4311f&sxsrf=AE3TifOrhEXPkvBpP_QjWoiCFyc3j3zFmA%3A1754517312888&q=%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5+%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8&sa=X&ved=2ahUKEwjw7fmolveOAxVWiv0HHVKPJqYQxccNegQIDRAB&mstk=AUtExfDfNG_IHKArsKUzR0G8444GCw-mYau7tI0tAY_qY2OSIIFRg4eNOVE4q8Yw1Hh2P0vP4oVUv5PmE_OOQTcJ86_qx61dGgPrtmMGWzLXCiWPEbxWhdBtxoNWlix7Qmw8hZsVM04T1M8uZ04ByPhfa3VCy9DlIOxoeifMIYA2UDupis8&csui=3):**
+    
+    Команда `ANALYZE` (которая часто выполняется вместе с `VACUUM` в рамках `autovacuum`) обновляет статистику, используемую оптимизатором запросов для выбора наиболее эффективных планов запросов. 
+    
+- **[Autovacuum](https://www.google.com/search?rlz=1C1GCEU_ruRU1076RU1076&cs=0&sca_esv=76304cc329e4311f&sxsrf=AE3TifOrhEXPkvBpP_QjWoiCFyc3j3zFmA%3A1754517312888&q=Autovacuum&sa=X&ved=2ahUKEwjw7fmolveOAxVWiv0HHVKPJqYQxccNegQIDhAB&mstk=AUtExfDfNG_IHKArsKUzR0G8444GCw-mYau7tI0tAY_qY2OSIIFRg4eNOVE4q8Yw1Hh2P0vP4oVUv5PmE_OOQTcJ86_qx61dGgPrtmMGWzLXCiWPEbxWhdBtxoNWlix7Qmw8hZsVM04T1M8uZ04ByPhfa3VCy9DlIOxoeifMIYA2UDupis8&csui=3):**
+    
+    PostgreSQL имеет фоновый процесс, называемый autovacuum, который автоматически выполняет `VACUUM` и `ANALYZE`, чтобы поддерживать базу данных в оптимальном состоянии.
