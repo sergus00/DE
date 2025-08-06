@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Кардинальность данных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Кардинальность данных"
             }
           }
         ]
@@ -188,7 +188,7 @@
   "active": "186ad202fb84ba39",
   "lastOpenFiles": [
     "Pasted image 20250805025805.png",
-    "Без названия.md",
+    "Кардинальность данных.md",
     "Pasted image 20250805025809.png",
     "Data Vault.md",
     "Метрика SLA.md",
