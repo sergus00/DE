@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Как выбрать количество ядер на executor.md",
+                "file": "SCD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Как выбрать количество ядер на executor"
+              "title": "SCD"
             }
           }
         ]
@@ -189,9 +189,9 @@
   },
   "active": "186ad202fb84ba39",
   "lastOpenFiles": [
+    "Как выбрать количество ядер на executor.md",
     "Pasted image 20250814002512.png",
     "Селективность данных.md",
-    "Как выбрать количество ядер на executor.md",
     "Кардинальность данных.md",
     "ANALYZE.md",
     "vacuum.md",
