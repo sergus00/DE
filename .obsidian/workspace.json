@@ -6,7 +6,7 @@
       {
         "id": "2e4b6d39deb145da",
         "type": "tabs",
-        "dimension": 52.982233502538065,
+        "dimension": 72.84263959390863,
         "children": [
           {
             "id": "186ad202fb84ba39",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCD.md",
+                "file": "Виды overhead в Spark.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SCD"
+              "title": "Виды overhead в Spark"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "6a07decda41f2a47",
         "type": "tabs",
-        "dimension": 47.01776649746193,
+        "dimension": 27.157360406091367,
         "children": [
           {
             "id": "2bf0b11136b48cc3",
@@ -189,17 +189,18 @@
   },
   "active": "186ad202fb84ba39",
   "lastOpenFiles": [
+    "vacuum.md",
+    "Виды overhead в Spark.md",
+    "SCD.md",
     "Как выбрать количество ядер на executor.md",
     "Pasted image 20250814002512.png",
     "Селективность данных.md",
     "Кардинальность данных.md",
     "ANALYZE.md",
-    "vacuum.md",
     "Pasted image 20250805025805.png",
     "Pasted image 20250805025809.png",
     "Data Vault.md",
     "Метрика SLA.md",
-    "SCD.md",
     "1.md",
     "DWH",
     "Метрики",
