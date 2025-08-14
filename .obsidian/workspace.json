@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Порядок запроса Postgres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Порядок запроса Postgres"
             }
           }
         ]
@@ -189,8 +189,9 @@
   },
   "active": "186ad202fb84ba39",
   "lastOpenFiles": [
+    "Pasted image 20250814084820.png",
     "Stage boundary.md",
-    "Без названия.md",
+    "Порядок запроса Postgres.md",
     "Коррелированный и некоррелированный подзапрос.md",
     "Pasted image 20250814073746.png",
     "Селективность данных.md",
