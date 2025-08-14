@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Виды overhead в Spark.md",
+                "file": "Селективность данных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Виды overhead в Spark"
+              "title": "Селективность данных"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "active": "186ad202fb84ba39",
   "lastOpenFiles": [
-    "vacuum.md",
     "Виды overhead в Spark.md",
+    "vacuum.md",
     "SCD.md",
     "Как выбрать количество ядер на executor.md",
     "Pasted image 20250814002512.png",
