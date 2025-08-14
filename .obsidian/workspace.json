@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stage boundary.md",
+                "file": "Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stage boundary"
+              "title": "Без названия"
             }
           }
         ]
@@ -189,8 +189,9 @@
   },
   "active": "186ad202fb84ba39",
   "lastOpenFiles": [
-    "Коррелированный и некоррелированный подзапрос.md",
     "Stage boundary.md",
+    "Без названия.md",
+    "Коррелированный и некоррелированный подзапрос.md",
     "Pasted image 20250814073746.png",
     "Селективность данных.md",
     "Виды overhead в Spark.md",
