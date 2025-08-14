@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Порядок работы декораторов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Порядок работы декораторов"
             }
           }
         ]
@@ -189,8 +189,11 @@
   },
   "active": "186ad202fb84ba39",
   "lastOpenFiles": [
+    "Pasted image 20250814095352.png",
+    "Pasted image 20250814095347.png",
+    "Pasted image 20250814095320.png",
     "Порядок запроса Postgres.md",
-    "Без названия.md",
+    "Порядок работы декораторов.md",
     "Pasted image 20250814084820.png",
     "Stage boundary.md",
     "Коррелированный и некоррелированный подзапрос.md",
