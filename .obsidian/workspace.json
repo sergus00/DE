@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "try, except, else, finally.md",
+                "file": "Как работает cehGpPxf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "try, except, else, finally"
+              "title": "Как работает cehGpPxf"
             }
           }
         ]
@@ -189,8 +189,9 @@
   },
   "active": "186ad202fb84ba39",
   "lastOpenFiles": [
-    "ANALYZE.md",
     "try, except, else, finally.md",
+    "Как работает cehGpPxf.md",
+    "ANALYZE.md",
     "Data Vault.md",
     "Stage boundary.md",
     "vacuum.md",
